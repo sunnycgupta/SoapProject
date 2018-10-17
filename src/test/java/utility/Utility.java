@@ -41,7 +41,7 @@ public class Utility {
 			}
 			k++;
 		}
-		System.out.println(column);
+		
 		while(rows.hasNext()) {
 			Row row=rows.next();
 			if(row.getCell(column).getStringCellValue().equalsIgnoreCase(valueName)) {

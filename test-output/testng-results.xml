@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="4437" started-at="2018-10-13T17:17:22Z" finished-at="2018-10-13T17:17:27Z">
+  <suite name="Default suite" duration-ms="5897" started-at="2018-10-17T19:59:32Z" finished-at="2018-10-17T19:59:38Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="4437" started-at="2018-10-13T17:17:22Z" finished-at="2018-10-13T17:17:27Z">
+    <test name="Default test" duration-ms="5897" started-at="2018-10-17T19:59:32Z" finished-at="2018-10-17T19:59:38Z">
       <class name="com.soap.SoapProject.RestCountriesAutomated">
-        <test-method status="PASS" signature="fetchCountryData()[pri:0, instance:com.soap.SoapProject.RestCountriesAutomated@4b9e13df]" name="fetchCountryData" duration-ms="4404" started-at="2018-10-13T22:47:22Z" finished-at="2018-10-13T22:47:27Z">
+        <test-method status="PASS" signature="fetchCountryData()[pri:0, instance:com.soap.SoapProject.RestCountriesAutomated@55f3ddb1]" name="fetchCountryData" duration-ms="5853" started-at="2018-10-18T01:29:32Z" finished-at="2018-10-18T01:29:38Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- fetchCountryData -->
